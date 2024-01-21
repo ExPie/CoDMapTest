@@ -83,6 +83,78 @@
 }
 // brush 9
 {
+( -128 128 560 ) ( -568 128 560 ) ( -568 -192 560 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -104 -192 568 ) ( -104 128 568 ) ( 336 128 568 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -552 -192 920 ) ( -112 -192 920 ) ( -112 -192 600 ) belgium/floors/concrete@bunkertile1 0 64 0 0.25 0.25 0 0 0 0
+( 320 -192 904 ) ( 320 128 904 ) ( 320 128 584 ) belgium/floors/concrete@bunkertile1 0 64 0 0.25 0.25 0 0 0 0
+( -128 128 880 ) ( -568 128 880 ) ( -568 128 560 ) belgium/floors/concrete@bunkertile1 0 64 0 0.25 0.25 0 0 0 0
+( -280 128 888 ) ( -280 -192 888 ) ( -280 -192 568 ) belgium/floors/concrete@bunkertile1 0 64 0 0.25 0.25 0 0 0 0
+}
+// brush 1
+{
+( -344 -168 520 ) ( -784 -168 520 ) ( -784 -488 520 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -360 -488 560 ) ( -360 -168 560 ) ( 80 -168 560 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -792 -192 896 ) ( -352 -192 896 ) ( -352 -192 576 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( 64 -488 768 ) ( 64 -168 768 ) ( 64 -168 448 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -344 -184 904 ) ( -784 -184 904 ) ( -784 -184 584 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -24 -200 968 ) ( -24 -520 968 ) ( -24 -520 648 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+}
+// brush 2
+{
+( -464 -168 424 ) ( -904 -168 424 ) ( -904 -488 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -448 -488 560 ) ( -448 -168 560 ) ( -8 -168 560 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -912 -192 976 ) ( -472 -192 976 ) ( -472 -192 656 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -24 -488 768 ) ( -24 -168 768 ) ( -24 -168 448 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -432 -184 744 ) ( -872 -184 744 ) ( -872 -184 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -272 -168 808 ) ( -272 -488 808 ) ( -272 -488 488 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+}
+// brush 3
+{
+( -128 -168 424 ) ( -568 -168 424 ) ( -568 -488 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -112 -488 560 ) ( -112 -168 560 ) ( 328 -168 560 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -576 -192 976 ) ( -136 -192 976 ) ( -136 -192 656 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( 312 -488 768 ) ( 312 -168 768 ) ( 312 -168 448 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -96 -184 744 ) ( -536 -184 744 ) ( -536 -184 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( 64 -168 808 ) ( 64 -488 808 ) ( 64 -488 488 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+}
+// brush 4
+{
+( -128 128 424 ) ( -568 128 424 ) ( -568 -192 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -112 -192 560 ) ( -112 128 560 ) ( 328 128 560 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -536 120 976 ) ( -96 120 976 ) ( -96 120 656 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( 312 -192 768 ) ( 312 128 768 ) ( 312 128 448 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -128 128 744 ) ( -568 128 744 ) ( -568 128 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -272 128 752 ) ( -272 -192 752 ) ( -272 -192 432 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+}
+// brush 5
+{
+( -720 128 424 ) ( -1160 128 424 ) ( -1160 -192 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -704 -192 560 ) ( -704 128 560 ) ( -264 128 560 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -1144 -192 1000 ) ( -704 -192 1000 ) ( -704 -192 680 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -272 -192 984 ) ( -272 128 984 ) ( -272 128 664 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -720 128 744 ) ( -1160 128 744 ) ( -1160 128 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -280 128 808 ) ( -280 -192 808 ) ( -280 -192 488 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+}
+// brush 6
+{
+( -128 128 424 ) ( -568 128 424 ) ( -568 -192 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -112 -192 560 ) ( -112 128 560 ) ( 328 128 560 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -552 -192 1000 ) ( -112 -192 1000 ) ( -112 -192 680 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( 320 -192 984 ) ( 320 128 984 ) ( 320 128 664 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -128 128 744 ) ( -568 128 744 ) ( -568 128 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( 312 128 808 ) ( 312 -192 808 ) ( 312 -192 488 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+}
+// brush 7
+{
+( -128 128 416 ) ( -568 128 416 ) ( -568 -192 416 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -104 -192 424 ) ( -104 128 424 ) ( 336 128 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -552 -192 776 ) ( -112 -192 776 ) ( -112 -192 456 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( 320 -192 760 ) ( 320 128 760 ) ( 320 128 440 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -128 128 736 ) ( -568 128 736 ) ( -568 128 416 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+( -280 128 744 ) ( -280 -192 744 ) ( -280 -192 424 ) belgium/floors/concrete@bunkertile1 0 0 0 0.25 0.25 0 0 0 0
+}
+// brush 8
+{
 ( 128 -312 0 ) ( 128 -192 0 ) ( -128 -192 0 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
 ( 128 -192 8 ) ( 128 -312 8 ) ( -128 -312 8 ) common/case1024x512 0 0 0 0.25 0.25 0 0 0 0
 ( 128 -320 8 ) ( 128 -320 0 ) ( -128 -320 0 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
@@ -90,7 +162,7 @@
 ( 128 -192 0 ) ( 128 -192 8 ) ( -128 -192 8 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
 ( -128 -192 8 ) ( -128 -312 8 ) ( -128 -312 0 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
 }
-// brush 10
+// brush 9
 {
 ( 128 128 0 ) ( 128 256 0 ) ( -128 256 0 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
 ( 128 256 8 ) ( 128 128 8 ) ( -128 128 8 ) common/case1024x512 0 0 0 0.25 0.25 0 0 0 0
@@ -99,7 +171,7 @@
 ( 128 256 0 ) ( 128 256 8 ) ( -128 256 8 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
 ( -128 256 8 ) ( -128 128 8 ) ( -128 128 0 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
 }
-// brush 11
+// brush 10
 {
 ( 64 128 0 ) ( -64 128 0 ) ( -64 -184 0 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
 ( -64 -184 8 ) ( -64 128 8 ) ( 64 128 8 ) common/case1024x512 0 0 0 0.25 0.25 0 0 0 0
@@ -108,4 +180,18 @@
 ( 64 128 8 ) ( -64 128 8 ) ( -64 128 0 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
 ( -64 128 8 ) ( -64 -184 8 ) ( -64 -184 0 ) common/caulk 0 0 0 0.25 0.25 0 0 0 0
 }
+}
+// entity 1
+{
+"origin" "-16 -24 480"
+"light" "500"
+"_color" "1.000000 0.000000 0.000000"
+"classname" "light"
+}
+// entity 2
+{
+"origin" "-56 -120 424"
+"export" "1"
+"model" "xmodel/character_british_CommandoA"
+"classname" "actor_ally_british_commando_panzerfaust"
 }
